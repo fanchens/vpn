@@ -1,5 +1,5 @@
 <h1>翻墙软件下载</h1>
-<p>请大家根据使用的系统下载对应的软件，主流的翻墙软件是V2ray、Clash、Shadowrocket<br>
+<p>请大家根据使用的系统下载对应的软件，主流的翻墙软件是V2ray、Clash、Clash Verge、Shadowrocket<br>
 
 <h2>Windows软件下载</h2>
 <p><a href="https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z" target="_blank">v2rayN 软件 点击下载>></a></p>
@@ -29,7 +29,7 @@
 <P><a href="https://github.com/eujc/rj/releases/download/clash/Clash-Android.apk" target="_blank">Clash-Android版本下载</a></P>
 <br>
 
-<p>*下载软件时，打开网页找到Assets位置，可以看到下载文件</p><br>
+
 <h2>iOS翻墙APP下载</h2>
 <P>请在AppStore下载 Shadowrocket（小火箭），用美区ID登录下载。</P>
 
